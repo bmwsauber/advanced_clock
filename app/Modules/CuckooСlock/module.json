@@ -1,0 +1,13 @@
+{
+    "name": "CuckooСlock",
+    "alias": "cuckooСlock",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CuckooСlock\\Providers\\CuckooСlockServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
