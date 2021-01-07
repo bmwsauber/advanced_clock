@@ -1,0 +1,13 @@
+{
+    "name": "PushNotofication",
+    "alias": "pushnotofication",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PushNotofication\\Providers\\PushNotoficationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
