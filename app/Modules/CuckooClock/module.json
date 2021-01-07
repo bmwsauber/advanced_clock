@@ -1,0 +1,13 @@
+{
+    "name": "CuckooClock",
+    "alias": "cuckooclock",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CuckooClock\\Providers\\CuckooClockServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

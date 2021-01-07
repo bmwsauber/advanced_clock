@@ -14,5 +14,10 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "coockies": "^1.0.0",
+        "pusher-js": "^7.0.2",
+        "vue-moment": "^4.1.0"
     }
 }
